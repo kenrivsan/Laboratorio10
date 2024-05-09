@@ -1,6 +1,6 @@
 ﻿namespace Laboratorio10
 {
-    public class Administrativo : Propiedades
+    public class Administrativo : Propiedades 
     {
         public string Profesion {  get; set; }
         public int NoIGSS {  get; set; }
